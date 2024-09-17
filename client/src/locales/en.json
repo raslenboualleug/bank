@@ -1,0 +1,22 @@
+{
+  "addClient": "Add Client",
+  "fullName": "Full Name",
+  "email": "Email",
+  "phoneNumber": "Phone Number",
+  "address": "Address",
+  "cardNumber": "Card Number",
+  "birthday": "Birthday",
+  "gender": "Gender",
+  "male": "Male",
+  "female": "Female",
+  "cinFront": "CIN Front",
+  "cinBack": "CIN Back",
+  "cancel": "Cancel",
+  "add": "Add",
+  "actions": "Actions",
+  "deleteConfirmation": "Are you sure?",
+  "deleteText": "You won't be able to revert this!",
+  "deleteSuccess": "The client has been deleted.",
+  "successAddClient": "Client added successfully.",
+  "errorAddClient": "There was an issue adding the client."
+}

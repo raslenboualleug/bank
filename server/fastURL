@@ -1,0 +1,10 @@
+//GET ALL CLIENTS
+http://localhost:3000/api/clients
+//ADD CLIENT
+http://localhost:3000/api/clients
+//DELETE CLIENT
+http://localhost:3000/api/clients/:id
+//update client
+http://localhost:3000/api/clients/:id   
+
+

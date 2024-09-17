@@ -1,0 +1,23 @@
+{
+    "addClient": "Ajouter un client",
+    "fullName": "Nom complet",
+    "email": "E-mail",
+    "phoneNumber": "Numéro de téléphone",
+    "address": "Adresse",
+    "cardNumber": "Numéro de carte",
+    "birthday": "Date de naissance",
+    "gender": "Sexe",
+    "male": "Homme",
+    "female": "Femme",
+    "cinFront": "CIN Avant",
+    "cinBack": "CIN Arrière",
+    "cancel": "Annuler",
+    "add": "Ajouter",
+    "actions": "Actions",
+    "deleteConfirmation": "Êtes-vous sûr?",
+    "deleteText": "Vous ne pourrez pas annuler cela!",
+    "deleteSuccess": "Le client a été supprimé.",
+    "successAddClient": "Client ajouté avec succès.",
+    "errorAddClient": "Un problème est survenu lors de l'ajout du client."
+  }
+  
